@@ -1,6 +1,6 @@
 # StandardBountiesJS
 
-JS lib to create StandardBounties compatible issues
+JS lib to create bounties on gitcoin.co and/or bounties.network
 
 # Installing
 
