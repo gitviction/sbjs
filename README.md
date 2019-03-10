@@ -4,7 +4,7 @@ JS lib to create StandardBounties compatible issues
 
 # Installing
 
-`yarn add https://github.com/gitviction/sbjs.git`
+`npm i gitviction/sbjs`
 
 # Usage
 
