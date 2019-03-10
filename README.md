@@ -16,7 +16,7 @@ const gitcoin = new sbjs({
     port: 5001,
     protocol: "http"
   },
-  web3provider: ...
+  web3provider: new HttpProvider("http://localhost:8545")
 });
 
 gitcoin.issueAndActivateBounty(
