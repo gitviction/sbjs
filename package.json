@@ -1,0 +1,21 @@
+{
+  "name": "sbjs",
+  "version": "0.0.1",
+  "description": "StandardBounties JS lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm test",
+    "test": "mocha ./src/tests/**/*.js -R spec --timeout 2000000"
+  },
+  "author": "sponnet",
+  "license": "MIT",
+  "dependencies": {
+    "ethjs": "^0.4.0",
+    "ipfs-mini": "^1.1.5"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "ethjs-provider-signer": "^0.1.4",
+    "mocha": "^6.0.2"
+  }
+}
